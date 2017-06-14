@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[hhhhhh]]></title>
+    <url>%2F2017%2F06%2F14%2F--hhhhhh%2F</url>
+    <content type="text"><![CDATA[dddddddddddddddddd]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[test2]]></title>
     <url>%2F2017%2F06%2F14%2F--test2%2F</url>
     <content type="text"><![CDATA[hhhhhhh]]></content>
       <categories>
         <category>ggg</category>
+        <category>ddd</category>
       </categories>
   </entry>
   <entry>
